@@ -1,0 +1,13 @@
+{
+    "name": "kynewu/composer1",
+    "description": "demo composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kynewu",
+            "email": "937188160@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
